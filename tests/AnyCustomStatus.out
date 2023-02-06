@@ -1,0 +1,5 @@
+HTTP/1.1 666 Custom Status
+Content-Type: text/html
+
+Status-Code: 666 CSCSCS
+<h1>Hello From Python!</h1>

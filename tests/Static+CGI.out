@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Content-Type: application/javascript
+
+
+function hello() {
+	console.log("Hello from javascript!");
+}
+HTTP/1.1 200 OK
+Content-Type: text/plain
+
+lalalallalaHTTP/1.1 200 OK
+Content-Type: text/html
+
+<h1>Hello From Python!</h1>
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html>
+<head>
+	<title>Hello!</title>
+</head>
+<body>
+<h1>Hello World!</h1>
+</body>
+</html>
